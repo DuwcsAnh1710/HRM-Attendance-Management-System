@@ -35,7 +35,7 @@ The system aims to:
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 
 Human resource management involves maintaining various types of information such as employee profiles, departments, positions, attendance records, and leave requests.
 
@@ -474,9 +474,9 @@ Current focus:
 
 ```text
 01. Project Objective            ✅ Completed
-02. System Scope                 🔨 In Progress
-03. System Actors                🔨 In Progress
-04. Functional Requirements      🔨 In Progress
+02. System Scope                 In Progress
+03. System Actors                In Progress
+04. Functional Requirements      In Progress
 ```
 
 Implementation has not started yet.
